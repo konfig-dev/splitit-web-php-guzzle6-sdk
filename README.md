@@ -2,7 +2,7 @@
 
 Splitit's Web API
 
-[![Packagist](https://img.shields.io/badge/Packagist-v3.0.0-blue)](https://packagist.org/packages/konfig/splitit-web-php-guzzle6-sdk)
+[![Packagist](https://img.shields.io/badge/Packagist-v3.0.1-blue)](https://packagist.org/packages/konfig/splitit-web-php-guzzle6-sdk)
 
 ## Table of Contents<a id="table-of-contents"></a>
 
@@ -45,7 +45,7 @@ To install the bindings via [Composer](https://getcomposer.org/), add the follow
     }
   ],
   "require": {
-    "konfig/splitit-web-php-guzzle6-sdk": "3.0.0"
+    "konfig/splitit-web-php-guzzle6-sdk": "3.0.1"
   }
 }
 ```
